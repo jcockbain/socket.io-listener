@@ -2,7 +2,7 @@
 
 ![Express Status](https://github.com/jcockbain/express-boilerplate/workflows/Node%20CI/badge.svg)
 
-This is my personal Node.js Express server boilerplate.
+This is based on my personal Node.js Express server boilerplate. It is for listening for socket-io events.
 
 ## Instructions
 
